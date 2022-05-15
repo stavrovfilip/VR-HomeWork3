@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{74EF7273-9860-609C-9E79-7F89CC10475C}</ProjectGuid>
+    <ProjectGuid>{1E350A35-9D2D-ECB6-E9A0-9FD629378015}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -279,13 +279,13 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Google.ProtocolBuffers">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -642,81 +642,81 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.TerrainTools.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.DeviceSimulator.Tests.Common">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.DeviceSimulator.Tests.Common.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.DeviceSimulator.Tests.Common.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.DeviceSimulator.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.DeviceSimulator.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.DeviceSimulator.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TerrainTools.Editor">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/Unity.TerrainTools.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/Edvin Lekovic/Unity Projects/VR-HomeWork3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{96482C2E-9E0B-3DD4-6BD7-9FC37DB6C06C}</Project>
+      <Project>{550D427D-339B-755C-0D4B-D5A6E6BB6550}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
